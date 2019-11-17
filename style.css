@@ -1,0 +1,50 @@
+h1 {
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+}
+
+.main {
+    width: 636px;
+    height: 590px;
+    text-align: left;
+    border: 1px solid black;
+}
+
+.paleta {
+    width: 154px;
+    height: 113px;
+    border: 1px solid saddlebrown;
+    display:inline-block;
+}
+
+.jurtbox {
+    position: fixed;
+    background: transparent;
+    width: 800px;
+}
+
+.vchod {
+    width: 130px;
+    height: 130px;
+    margin-top: -356px;
+    margin-right: 91px;
+    float: right;
+    border-left: 1px solid dodgerblue;
+    background: white;
+    z-index: 9;
+    text-align: center;
+}
+
+.vchod p {
+    color: #282c34;
+    vertical-align: center;
+}
+
+.jurta {
+    border: 1px solid dodgerblue;
+    background: rgba(30,144,255, .3);
+    border-radius: 50%;
+    margin: 5px 0 0 5px;
+    width: 579px;
+    height: 579px;
+}
