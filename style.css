@@ -21,13 +21,15 @@ h1 {
     position: fixed;
     background: transparent;
     width: 800px;
+    transform: rotate(-37deg);
+    margin-top: -63px;
 }
 
 .entry {
-    width: 130px;
+    width: 110px;
     height: 130px;
     margin-top: -356px;
-    margin-right: 91px;
+    margin-right: 111px;
     float: right;
     border-left: 1px solid dodgerblue;
     background: white;
