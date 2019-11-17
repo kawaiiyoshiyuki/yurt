@@ -10,20 +10,20 @@ h1 {
     border: 1px solid black;
 }
 
-.paleta {
+.pallets {
     width: 154px;
     height: 113px;
     border: 1px solid saddlebrown;
     display:inline-block;
 }
 
-.jurtbox {
+.yurtbox {
     position: fixed;
     background: transparent;
     width: 800px;
 }
 
-.vchod {
+.entry {
     width: 130px;
     height: 130px;
     margin-top: -356px;
@@ -35,12 +35,12 @@ h1 {
     text-align: center;
 }
 
-.vchod p {
+.entry p {
     color: #282c34;
     vertical-align: center;
 }
 
-.jurta {
+.yurt {
     border: 1px solid dodgerblue;
     background: rgba(30,144,255, .3);
     border-radius: 50%;
